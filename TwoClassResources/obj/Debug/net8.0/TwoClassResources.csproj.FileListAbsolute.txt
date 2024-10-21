@@ -1,0 +1,14 @@
+F:\.Net\ClassTwo\TwoClassResources\bin\Debug\net8.0\TwoClassResources.exe
+F:\.Net\ClassTwo\TwoClassResources\bin\Debug\net8.0\TwoClassResources.deps.json
+F:\.Net\ClassTwo\TwoClassResources\bin\Debug\net8.0\TwoClassResources.runtimeconfig.json
+F:\.Net\ClassTwo\TwoClassResources\bin\Debug\net8.0\TwoClassResources.dll
+F:\.Net\ClassTwo\TwoClassResources\bin\Debug\net8.0\TwoClassResources.pdb
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.AssemblyInfoInputs.cache
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.AssemblyInfo.cs
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.csproj.CoreCompileInputs.cache
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.dll
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\refint\TwoClassResources.dll
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.pdb
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\TwoClassResources.genruntimeconfig.cache
+F:\.Net\ClassTwo\TwoClassResources\obj\Debug\net8.0\ref\TwoClassResources.dll
