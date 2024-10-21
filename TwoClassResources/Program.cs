@@ -7,6 +7,8 @@ Console.WriteLine("Tu eres el numero uno Anderson");
 Console.WriteLine("Escoga una Opcion");
 Console.WriteLine("1: Sentecias Condicionales");
 Console.WriteLine("2: Sentencias Repetitivas");
+Console.WriteLine("3: Sentencias Repetitivas2");
+Console.WriteLine("-----Fin del Programa");
 
     if(int.TryParse(Console.ReadLine(),out var opcion))
 {
@@ -21,6 +23,9 @@ Console.WriteLine("2: Sentencias Repetitivas");
         SenteciasRepetitivas.Ejecutar();
         break;
          case 3: 
+        SenteciasRepetitivas2.Ejecutar();
+        break;
+        case 4: 
         Console.WriteLine("Saliste del Sistema");
         break;
         default:

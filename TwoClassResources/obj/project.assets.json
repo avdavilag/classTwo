@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.Net\\ClassTwo\\TwoClassResources\\TwoClassResources.csproj",
+      "projectUniqueName": "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj",
       "projectName": "TwoClassResources",
-      "projectPath": "F:\\.Net\\ClassTwo\\TwoClassResources\\TwoClassResources.csproj",
+      "projectPath": "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj",
       "packagesPath": "C:\\Users\\JP3\\.nuget\\packages\\",
-      "outputPath": "F:\\.Net\\ClassTwo\\TwoClassResources\\obj\\",
+      "outputPath": "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JP3\\AppData\\Roaming\\NuGet\\NuGet.Config"

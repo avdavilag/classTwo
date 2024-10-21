@@ -12,9 +12,13 @@ namespace TWOCLASS;
         public DateTime FechaNacimiento{ get;set;}
         public float Salario{get;set;}      // Constructor
 
-        //public List<String> Telefono{get;set;}
+    //public List<String> Telefono{get;set;}
 
-        
-        
+    public override string ToString()
+    {
+        return Nombre;
     }
+
+
+}
 
