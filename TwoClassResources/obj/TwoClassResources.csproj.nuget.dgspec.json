@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj": {}
+    "f:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj": {}
   },
   "projects": {
-    "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj": {
+    "f:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj",
+        "projectUniqueName": "f:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj",
         "projectName": "TwoClassResources",
-        "projectPath": "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj",
+        "projectPath": "f:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\TwoClassResources.csproj",
         "packagesPath": "C:\\Users\\JP3\\.nuget\\packages\\",
-        "outputPath": "F:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\obj\\",
+        "outputPath": "f:\\.Net\\ClassTwo\\classTwo\\TwoClassResources\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JP3\\AppData\\Roaming\\NuGet\\NuGet.Config"

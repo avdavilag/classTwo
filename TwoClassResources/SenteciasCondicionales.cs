@@ -13,7 +13,6 @@ Console.WriteLine("Sentencias Condicionales");
 
 
    var random=new Random();
-String mensaje;
     var persona=new Persona
       {
          Nombre="Juan",

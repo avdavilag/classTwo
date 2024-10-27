@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoClassResources")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772be1fbfe100d3f6ec88fda1c6b1392d4acdb4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b93a6cacb450bc516e5241d0ce411a4e491b8310")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoClassResources")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoClassResources")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
