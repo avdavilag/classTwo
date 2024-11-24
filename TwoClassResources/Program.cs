@@ -8,7 +8,8 @@ Console.WriteLine("Escoga una Opcion");
 Console.WriteLine("1: Sentecias Condicionales");
 Console.WriteLine("2: Sentencias Repetitivas");
 Console.WriteLine("3: Sentencias Repetitivas2");
-Console.WriteLine("-----Fin del Programa");
+Console.WriteLine("4: Bluce While");
+Console.WriteLine("5: Fin del Programa");
 
     if(int.TryParse(Console.ReadLine(),out var opcion))
 {
@@ -26,6 +27,9 @@ Console.WriteLine("-----Fin del Programa");
         SenteciasRepetitivas2.Ejecutar();
         break;
         case 4: 
+        SenteciasRepetitivas2.EjecutarBucleWhile();
+        break;
+        case 5: 
         Console.WriteLine("Saliste del Sistema");
         break;
         default:
@@ -38,7 +42,15 @@ Console.WriteLine("-----Fin del Programa");
 }
 
 public static ConsoleColor ColorPrograma(){
-    return ConsoleColor.DarkGreen;  
+    return ConsoleColor.Green;  
     }
+    public static void Separador()
+    {
+        Console.WriteLine(new string('=',60));
+        Console.WriteLine(Environment.NewLine);
+    }
+
+
+
 }
 

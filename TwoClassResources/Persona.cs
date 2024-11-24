@@ -2,8 +2,10 @@ using System.ComponentModel;
 
 namespace TWOCLASS;
 
-    public class Persona
+    public class Persona : IEquatable<Persona>
     {
+
+        public int Id{get;set;}
         // Properties
         public string Nombre { get; set; }=null!;
         public string Apellido { get; set; }=default!;
@@ -14,10 +16,22 @@ namespace TWOCLASS;
 
     //public List<String> Telefono{get;set;}
 
+    public bool Equals(Persona? other)
+    {
+        return Nombre.Equals(other?.Nombre);
+    }
     public override string ToString()
     {
-        return Nombre;
+        return $"Id={Id} | Nombre={Nombre}";
     }
+    public String MyName(){
+
+        return "Anderson Vinicio Davila Guerrero";
+    }
+
+public override int GetHashCode(){
+    return Nombre.GetHashCode();
+}
 
 
 }
